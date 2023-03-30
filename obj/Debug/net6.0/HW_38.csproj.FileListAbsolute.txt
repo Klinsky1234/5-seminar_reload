@@ -1,0 +1,15 @@
+D:\GB\C#\Семинар 5\5_Reload\HW_38\bin\Debug\net6.0\HW_38.exe
+D:\GB\C#\Семинар 5\5_Reload\HW_38\bin\Debug\net6.0\HW_38.deps.json
+D:\GB\C#\Семинар 5\5_Reload\HW_38\bin\Debug\net6.0\HW_38.runtimeconfig.json
+D:\GB\C#\Семинар 5\5_Reload\HW_38\bin\Debug\net6.0\HW_38.dll
+D:\GB\C#\Семинар 5\5_Reload\HW_38\bin\Debug\net6.0\HW_38.pdb
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.csproj.AssemblyReference.cache
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.AssemblyInfoInputs.cache
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.AssemblyInfo.cs
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.csproj.CoreCompileInputs.cache
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.dll
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\refint\HW_38.dll
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.pdb
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\HW_38.genruntimeconfig.cache
+D:\GB\C#\Семинар 5\5_Reload\HW_38\obj\Debug\net6.0\ref\HW_38.dll
